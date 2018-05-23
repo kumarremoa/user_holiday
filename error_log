@@ -1,0 +1,566 @@
+[23-Dec-2017 07:43:31 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 2
+[28-Dec-2017 12:53:28 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[28-Dec-2017 12:53:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[28-Dec-2017 12:53:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[29-Dec-2017 12:05:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[29-Dec-2017 12:05:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[29-Dec-2017 12:05:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[29-Dec-2017 12:20:11 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[29-Dec-2017 12:20:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[29-Dec-2017 12:20:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[30-Dec-2017 10:14:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[30-Dec-2017 10:14:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[30-Dec-2017 10:14:42 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[30-Dec-2017 11:59:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[30-Dec-2017 11:59:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[30-Dec-2017 11:59:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[31-Dec-2017 09:42:48 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/paymentDetails.php on line 2
+[01-Jan-2018 09:05:50 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/paymentDetails.php on line 2
+[01-Jan-2018 09:06:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 09:06:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 09:06:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[01-Jan-2018 09:09:18 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/holidays.php on line 2
+[01-Jan-2018 09:10:47 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/memberDetails.php on line 23
+[01-Jan-2018 09:10:47 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/memberDetails.php on line 152
+[01-Jan-2018 09:17:50 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 2
+[01-Jan-2018 09:21:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 09:21:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 09:21:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[01-Jan-2018 09:29:04 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 2
+[01-Jan-2018 12:52:12 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/feedback.php on line 2
+[01-Jan-2018 12:55:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 12:55:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 12:55:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[01-Jan-2018 12:58:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 12:58:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 12:58:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[01-Jan-2018 12:58:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 12:58:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 12:58:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[01-Jan-2018 13:00:51 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 13:00:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 13:00:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[01-Jan-2018 13:07:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[01-Jan-2018 13:07:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[01-Jan-2018 13:07:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 08:07:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 08:07:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 08:07:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 08:11:13 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 08:11:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 08:11:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 08:12:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 08:12:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 08:12:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 08:22:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 08:22:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 08:22:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 08:24:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 08:24:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 08:24:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 09:39:34 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 2
+[02-Jan-2018 09:46:35 UTC] PHP Notice:  Undefined variable: season in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 120
+[02-Jan-2018 09:46:35 UTC] PHP Notice:  Undefined variable: apartment in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 122
+[02-Jan-2018 09:51:39 UTC] PHP Notice:  Undefined variable: season in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 119
+[02-Jan-2018 09:51:39 UTC] PHP Notice:  Undefined variable: apartment in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/booking.php on line 121
+[02-Jan-2018 09:52:59 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 09:52:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 09:52:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[02-Jan-2018 11:29:20 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/holidays.php on line 2
+[02-Jan-2018 11:46:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[02-Jan-2018 11:46:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[02-Jan-2018 11:46:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[03-Jan-2018 07:06:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[03-Jan-2018 07:06:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[03-Jan-2018 07:06:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[03-Jan-2018 07:06:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[03-Jan-2018 07:06:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[03-Jan-2018 07:06:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[03-Jan-2018 07:09:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[03-Jan-2018 07:09:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[03-Jan-2018 07:09:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[03-Jan-2018 10:52:03 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[03-Jan-2018 10:52:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[03-Jan-2018 10:52:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[03-Jan-2018 10:55:31 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[03-Jan-2018 10:55:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[03-Jan-2018 10:55:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[04-Jan-2018 10:00:30 UTC] PHP Notice:  Undefined index: dsa_name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/success.php on line 13
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 17
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: formError in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 52
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: action in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 57
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: merchant_key in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 59
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: txnid in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 60
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: currentDir in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 61
+[04-Jan-2018 10:42:00 UTC] PHP Notice:  Undefined variable: currentDir in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 62
+[04-Jan-2018 10:43:01 UTC] PHP Notice:  Undefined variable: action in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 51
+[04-Jan-2018 10:43:01 UTC] PHP Notice:  Undefined variable: merchant_key in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 52
+[04-Jan-2018 10:43:01 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 53
+[04-Jan-2018 10:43:01 UTC] PHP Notice:  Undefined variable: txnid in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 54
+[04-Jan-2018 10:43:01 UTC] PHP Notice:  Undefined variable: currentDir in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 55
+[04-Jan-2018 10:43:01 UTC] PHP Notice:  Undefined variable: currentDir in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 56
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: firstname in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 13
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: email in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 15
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: phone in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 17
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: productinfo in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 19
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: service_provider in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 21
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: amount in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 23
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: txnid in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 25
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: surl in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 27
+[04-Jan-2018 11:10:13 UTC] PHP Notice:  Undefined index: furl in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 29
+[04-Jan-2018 11:20:39 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 55
+[04-Jan-2018 11:21:45 UTC] PHP Notice:  Undefined variable: payu_base_url in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 48
+[04-Jan-2018 11:21:57 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 55
+[04-Jan-2018 11:22:02 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 55
+[04-Jan-2018 11:24:13 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 11:25:05 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 11:28:26 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 11:32:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 151
+[04-Jan-2018 11:32:34 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 11:32:34 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 151
+[04-Jan-2018 11:32:55 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 11:33:38 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 11:50:32 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 12:08:30 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 12:08:33 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 12:08:54 UTC] PHP Notice:  Undefined variable: hash in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 58
+[04-Jan-2018 12:49:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/success.php on line 28
+[05-Jan-2018 07:38:20 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[05-Jan-2018 07:38:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[05-Jan-2018 07:38:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[05-Jan-2018 07:40:05 UTC] PHP Notice:  Undefined index: name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:48:45 UTC] PHP Notice:  Undefined index: name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:48:45 UTC] PHP Notice:  Undefined variable: dsa_assigned in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:51:33 UTC] PHP Notice:  Undefined index: name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:51:33 UTC] PHP Notice:  Undefined index: dsa_assigned in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:51:33 UTC] PHP Notice:  Undefined index: name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:51:33 UTC] PHP Notice:  Undefined index: dsa_assigned in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 07:53:57 UTC] PHP Notice:  Undefined index: name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 08:48:33 UTC] PHP Notice:  Undefined index: name in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 08:48:33 UTC] PHP Notice:  Undefined index: dsa_assigned in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/pay-form.php on line 51
+[05-Jan-2018 11:05:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[05-Jan-2018 11:05:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[05-Jan-2018 11:05:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[05-Jan-2018 14:07:27 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/paymentDetails.php on line 2
+[06-Jan-2018 06:19:17 UTC] PHP Parse error:  syntax error, unexpected '$hashVarsSeq' (T_VARIABLE) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 55
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[07-Jan-2018 10:49:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[07-Jan-2018 10:49:46 UTC] PHP Parse error:  syntax error, unexpected '$hashVarsSeq' (T_VARIABLE) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 55
+[07-Jan-2018 10:50:25 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 3
+[08-Jan-2018 11:09:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[08-Jan-2018 11:09:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[08-Jan-2018 11:09:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[10-Jan-2018 11:29:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[10-Jan-2018 11:29:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[10-Jan-2018 11:29:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[10-Jan-2018 15:54:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 07:29:54 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[13-Jan-2018 07:29:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[13-Jan-2018 07:29:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[13-Jan-2018 08:57:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[14-Jan-2018 10:37:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[14-Jan-2018 11:32:02 UTC] PHP Notice:  Undefined variable: str in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 39
+[14-Jan-2018 11:32:02 UTC] PHP Notice:  Undefined variable: num in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 43
+[14-Jan-2018 11:32:02 UTC] PHP Notice:  Undefined variable: num in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 52
+[15-Jan-2018 16:24:43 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 28
+[15-Jan-2018 16:26:22 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 28
+[15-Jan-2018 16:26:30 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 40
+[15-Jan-2018 16:28:30 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 41
+[15-Jan-2018 16:29:46 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 42
+[15-Jan-2018 16:30:46 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 42
+[15-Jan-2018 16:31:55 UTC] PHP Notice:  Undefined variable: dec in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 42
+[15-Jan-2018 17:33:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[15-Jan-2018 17:33:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[15-Jan-2018 17:33:55 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[15-Jan-2018 17:33:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[15-Jan-2018 17:33:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[15-Jan-2018 17:33:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[17-Jan-2018 12:30:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[17-Jan-2018 12:30:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[17-Jan-2018 12:30:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[17-Jan-2018 12:43:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[17-Jan-2018 12:43:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[17-Jan-2018 12:43:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[17-Jan-2018 12:43:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 2
+[17-Jan-2018 12:43:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 3
+[17-Jan-2018 12:43:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/logout.php on line 4
+[17-Jan-2018 16:05:23 UTC] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 27
+[17-Jan-2018 16:05:53 UTC] PHP Notice:  Undefined variable: dec in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/amc-pay-form.php on line 40
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 22
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 81
+[20-Jan-2018 07:39:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/www.webhint.in/theholidays/new/frontend/AmcFeeDetails.php on line 97
+[21-Jan-2018 09:50:17 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[21-Jan-2018 09:50:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[21-Jan-2018 09:50:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[21-Jan-2018 10:24:03 UTC] PHP Notice:  Array to string conversion in /home/theholidaysclubs/public_html/user/amc-pay-form.php on line 51
+[21-Jan-2018 15:00:12 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-pay-form.php on line 2
+[21-Jan-2018 15:00:44 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-pay-form.php on line 2
+[21-Jan-2018 15:22:07 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-requesthandler.php on line 2
+[21-Jan-2018 15:53:09 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-responsehandler.php on line 2
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:10:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 81
+[21-Jan-2018 16:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 16:15:53 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 2
+[21-Jan-2018 16:29:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:29:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:29:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:29:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:29:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:29:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:30:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 76
+[21-Jan-2018 16:46:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 72
+[21-Jan-2018 16:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 16:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 16:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 16:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 16:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 16:56:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:01:33 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 98
+[21-Jan-2018 17:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:02:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 92
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 97
+[21-Jan-2018 17:05:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/theholidaysclubs/public_html/user/AmcFeeDetails.php on line 99
+[21-Jan-2018 17:20:54 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/paymentDetails.php on line 2
+[21-Jan-2018 17:33:04 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/pay-form.php on line 3
+[21-Jan-2018 17:50:06 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/payment_requesthandler.php on line 2
+[21-Jan-2018 18:21:24 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/holidays.php on line 2
+[21-Jan-2018 18:23:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[21-Jan-2018 18:23:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[21-Jan-2018 18:23:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[21-Jan-2018 18:23:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[21-Jan-2018 18:23:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[21-Jan-2018 18:23:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 05:26:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 05:26:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 05:26:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 06:23:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 06:23:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 06:23:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 07:32:25 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/pay-form.php on line 2
+[22-Jan-2018 07:34:30 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 07:34:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 07:34:30 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 07:35:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 07:35:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 07:35:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 08:04:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 08:04:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 08:04:56 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 08:06:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 08:06:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 08:06:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 08:07:07 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/theholidaysclubs/public_html/user/index.php on line 100
+[22-Jan-2018 08:07:07 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/theholidaysclubs/public_html/user/index.php on line 100
+[22-Jan-2018 08:15:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 08:15:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 08:15:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 11:15:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 11:15:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 11:15:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 11:34:26 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/paymentDetails.php on line 2
+[22-Jan-2018 12:09:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 12:09:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 12:09:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 12:21:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 12:21:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 12:21:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 12:26:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[22-Jan-2018 12:26:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[22-Jan-2018 12:26:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[22-Jan-2018 15:28:53 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-pay-form.php on line 2
+[24-Jan-2018 03:49:23 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-pay-form.php on line 2
+[25-Jan-2018 05:30:29 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/amc-pay-form.php on line 2
+[25-Jan-2018 08:29:31 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/holidays.php on line 2
+[25-Jan-2018 09:33:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[25-Jan-2018 09:33:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[25-Jan-2018 09:33:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[25-Jan-2018 10:19:27 UTC] PHP Notice:  Undefined variable: total_amount in /home/theholidaysclubs/public_html/user/memberDetails.php on line 159
+[25-Jan-2018 10:26:53 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[25-Jan-2018 10:26:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[25-Jan-2018 10:26:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[25-Jan-2018 10:30:25 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[25-Jan-2018 10:30:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[25-Jan-2018 10:30:25 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
+[25-Jan-2018 12:31:38 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/refertofrd.php on line 2
+[25-Jan-2018 12:31:38 UTC] PHP Notice:  Undefined index: userID in /home/theholidaysclubs/public_html/user/feedback.php on line 2
+[26-Jan-2018 04:53:21 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/theholidaysclubs/public_html/user/logout.php on line 2
+[26-Jan-2018 04:53:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 3
+[26-Jan-2018 04:53:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/theholidaysclubs/public_html/user/logout.php on line 4
